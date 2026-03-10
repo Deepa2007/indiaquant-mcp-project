@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+pandas-ta
+scipy
+requests
+textblob
+sqlite-utils
+anthropic
